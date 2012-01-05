@@ -3,8 +3,8 @@ server: true
 exclude: README.md, .gitignore
 permalink: none
 baseurl: 
-url: http://nodedc.org
-hashtag: '#nodedc'
-github_login: 'nodedc'
-github_repo: 'nodedc.github.com'
+url: http://nodepdx.org
+hashtag: '#nodepdx'
+github_login: 'nodepdx'
+github_repo: 'nodepdx.github.com'
 github_lanaguage: 'JavaScript'
