@@ -162,6 +162,19 @@ a.github-user {
   line-height:16px;
   }
 
+/* 
+** twitter feed styling
+*/
+a.tweet { 
+  display: block;
+  padding: 5px 0px 5px 0px;
+}
+
+span.title { 
+  font-weight: bold;
+  padding-right: 5px;
+}
+
 /*
 ** Markup free clearing
 ** Details: http://www.positioniseverything.net/easyclearing.html
