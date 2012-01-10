@@ -1,10 +1,9 @@
-
 [Proposal Title]
 ========================
 
-Speaker   : [Your Name, eg: *John Doe*]
-Available : [Dates/Times Available, eg: *Feb 11th, 9am-12pm*]
-Length    : [Length of Presentation, eg: *45 mins*]
+* Speaker   : [Your Name, eg: *John Doe*]
+* Available : [Dates/Times Available, eg: *Feb 11th, 9am-12pm*]
+* Length    : [Length of Presentation, eg: *45 mins*]
 
 Description
 -----------
