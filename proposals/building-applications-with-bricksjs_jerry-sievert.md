@@ -1,10 +1,9 @@
-
 Building Applications with Bricks.js
 ========================
 
-Speaker   : Jerry Sievert
-Available : All Day, both days
-Length    : 45 minutes
+* Speaker   : Jerry Sievert
+* Available : All Day, both days
+* Length    : 45 minutes
 
 Description
 -----------
