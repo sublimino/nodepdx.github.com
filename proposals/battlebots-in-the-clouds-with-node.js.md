@@ -24,6 +24,6 @@ Links
 * Twitter: @krobertson
 * Company: http://paas.io
 * Company Blog: http://blog.paas.io
-* Company Twitter: @paasio
+* Company Twitter: @paas_io
 * Github: https://github.com/krobertson and https://github.com/paasio
 
