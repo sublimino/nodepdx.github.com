@@ -1,4 +1,4 @@
-CouchDB + Neo4j + Redis + Node.JS 
+A CouchDB, Neo4j, Redis, and Node.JS Circus
 ========================
 
 * Speaker   : Eric Redmond
