@@ -1,7 +1,6 @@
 ---
 layout: event
 title: NodePDX 2012 Event Space
-rsvp_url: http://lanyrd.com/2012/nodepdx/ 
 ---
 The event space for NodePDX 2012 is finally settled. Thanks so much to Mark Grimes over at [NedSpace](http://www.nedspace.com/) for the donation. It's really awesome how supportive our community is here (in case you needed any further proof that Portland, Oregon is the best place in the world). 
 
