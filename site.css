@@ -375,6 +375,8 @@ a.tweet {
   visibility: hidden;
   }
 
+.hidden { display: none; }
+
 .clearfix { display: inline-block; }
 
 /* Hides from IE-mac \*/
