@@ -7,6 +7,7 @@ rss: /blog.rss
   <script type="text/javascript">
     function doNavigation(postSection)
     {
+        event.preventDefault();
         $('.posts').addClass('hidden');      
         $('#' + postSection).removeClass('hidden');
     };
