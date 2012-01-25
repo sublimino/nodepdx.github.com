@@ -1,0 +1,10 @@
+{% if item.logo_url %}
+<img src='{{item.logo_url}}' alt="logo">
+{% endif %}
+{% if item.company_name %}
+<h2>{{item.company_name}}</h2>
+{% endif %}
+{% if item.company_url %}
+<a href='{{item.company_url}}'>{{item.company_url}}</a>
+{% endif %}
+{{item.content}}
