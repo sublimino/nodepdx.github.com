@@ -3,8 +3,35 @@ layout: default
 title: NodePDX
 rss: /blog.rss
 ---
+<div class='nav prose'>
+  <script>
+  </script>
+  <h1>
+    <a href="">NEWS</a>
+    <span> / </span>
+    <a href="">SPEAKERS</a>
+    <span> / </span>
+    <a href="">SPONSORS</a>
+  </h1>
+<div>
+<div id='news-posts'>
 <div class='events prose'>
   {% for item in site.categories['events'] limit:10 %}
   {% include event.html %}
   {% endfor %}
+</div>
+</div>
+<div id='speaker-posts' class='hidden'>
+<div class='events prose'>
+  {% for item in site.categories['speakers'] limit:10 %}
+  {% include event.html %}
+  {% endfor %}
+</div>
+</div>
+<div id='sponsors-posts' class='hidden'>
+<div class='events prose'>
+  {% for item in site.categories['sponsors'] limit:10 %}
+  {% include event.html %}
+  {% endfor %}
+</div>
 </div>
