@@ -6,7 +6,7 @@ We've been busy over the last few days to bring you some great content from some
 
 - Jesse Hallett [@hallettj](https://twitter.com/#!/hallettj) presenting [Object-oriented Patterns in JavaScript](http://wp.me/pXk7p-1gg)
 - Garann Means [@garannm](https://twitter.com/#!/garannm) presenting [DRYing out Your Client Side Apps](http://wp.me/pXk7p-1g2)
-- Jerry Seivert [@jerrysievert](https://twitter.com/#!/jerrysievert) presenting [Building Applications with Bricks.js](http://wp.me/pXk7p-1gJ)
+- Jerry Sievert [@jerrysievert](https://twitter.com/#!/jerrysievert) presenting [Building Applications with Bricks.js](http://wp.me/pXk7p-1gJ)
 
 Keep reading for more speaker announcements, event additions, and other news.
 
