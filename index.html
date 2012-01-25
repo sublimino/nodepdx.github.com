@@ -4,17 +4,22 @@ title: NodePDX
 rss: /blog.rss
 ---
 <div class='nav prose'>
-  <script>
+  <script type="text/javascript">
+    function doNavigation(postSection)
+    {
+        $('.posts').addClass('hidden');      
+        $('#' + postSection).removeClass('hidden');
+    };
   </script>
   <h1>
-    <a href="">NEWS</a>
+    <a href="" onclick="doNavigation('news-posts')">NEWS</a>
     <span> / </span>
-    <a href="">SPEAKERS</a>
+    <a href="" onclick="doNavigation('speaker-posts')">SPEAKERS</a>
     <span> / </span>
-    <a href="">SPONSORS</a>
+    <a href="" onclick="doNavigation('sponsors-posts')">SPONSORS</a>
   </h1>
 </div>
-<div id='news-posts'>
+<div id='news-posts' class='posts'>
 <div class='events prose'>
   {% for item in site.categories['events'] limit:10 %}
   {% include event.html %}
@@ -22,7 +27,7 @@ rss: /blog.rss
 </div>
 </div>
 
-<div id='speaker-posts' class='hidden'>
+<div id='speaker-posts' class='posts hidden'>
 <div class='events prose'>
   {% for item in site.categories['speakers'] limit:10 %}
   {% include event.html %}
@@ -30,7 +35,7 @@ rss: /blog.rss
 </div>
 </div>
 
-<div id='sponsors-posts' class='hidden'>
+<div id='sponsors-posts' class='posts hidden'>
 <div class='events prose'>
   {% for item in site.categories['sponsors'] limit:10 %}
   {% include event.html %}
