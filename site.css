@@ -187,8 +187,8 @@ header .logo {
   width: 100%;
   }
 
-#content {
-  /*padding:0px 20px 20px;*/
+div.prose {
+  padding:0px 20px 20px;
   }
 
 .followers,
