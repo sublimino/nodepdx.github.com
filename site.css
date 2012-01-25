@@ -161,8 +161,22 @@ a {
   color: #4183C4;
   }
 
+.top-section { 
+   padding-top: 32px;
+   background: #adf;
+}
+
+.middle-section { 
+   background: #8ce;
+}
+.bottom-section { 
+   background: #07a;
+   padding-bottom: 32px;
+}
+
 .limiter {
-  width:80%;
+  padding: 0 32px;
+  width:75%;
   margin:0px auto;
   background-color: white;
   }
@@ -289,15 +303,15 @@ a.tweet {
 
 .buttons a {
   text-align:center;
-  font-size:15px;
+  font-size: 1.2em;
+  font-weight: bold;
   line-height:36px;
   display:block;
   margin:0;
   padding:0;
   padding:4px;
-  color: #333;
-  background:#FBDFBC;
-  text-shadow: 1px 1px 0 white;
+  color: #f2f2f2;
+  background: #4183C4; /*#6ab;*/
   -webkit-border-radius:5px;
   -moz-border-radius:5px;
   border-radius:5px;
