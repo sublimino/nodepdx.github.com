@@ -1,7 +1,6 @@
 ---
 layout: event
 title: NodePDX 2012 Dates Are Set
-rsvp_url: http://lanyrd.com/2012/nodepdx/ 
 ---
 We've settled on the dates for NodePDX 2012. Mark your calendars off for Feb. 11/12, 2012. 
 
