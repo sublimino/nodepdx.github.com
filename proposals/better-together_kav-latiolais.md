@@ -1,28 +1,17 @@
-[Proposal Title]
+Better Together: Building Scalable Real Time Collaborative Apps with Node.js
 ========================
 
-* Speaker   : [Your Name, eg: *John Doe*]
-* Available : [Dates/Times Available, eg: *Feb 11th, 9am-12pm*]
-* Length    : [Length of Presentation, eg: *45 mins*]
+* Speaker   : Kav Latiolais
+* Available : Ideally some time after noon either day (Love the Session 10 spot)
+* Length    : ~1 hour (Can adjust content, but will need to update abstract.)
 
 Description
 -----------
-
-[Presentation description goes here. Try to keep it under say, 500 words, but more than 140 characters]
+If you're not using node to build collaborative real time applications you might as well be using rails. In this talk we'll discuss patterns and pitfalls of synchronous node apps. We'll roll up our sleeves and dig into some code demonstrating patterns that can help you get started building highly interactive applications that sync real time state with Node.js, Socket.io, and Backbone.js. You will leave this talk with insight on how to build synchronous experiences into your applications and avoid some of the pitfalls we've suffered.
 
 ---------------
-[*All things below are optional*]
-
 
 Speaker Bio
 -----------
 
-I'm a big furry mammal that likes to run through the forest and splash in the stream and I write code sometimes.
-
-
-Links
------
-
-* Blog: http://bloggityblogblog.com/john-doe-does-code
-* Company: http://companitycompanycomp.com/john-doe-makes-cool-products
-* Github: http://github.com/john-doe
+Kav Latiolais is a principal and co-founder at Liffft in Seattle and has been developing collaborative Node.js applications for the past year with Giant Thinkwell. He once built a horse racing app in 30 minutes on a bet. Before starting his love affair with Node.JS, Socket.IO, and CoffeeScript Kav was a Program Manager at Microsoft tasked with designing Visual Studio. Don't tell his old coworkers he exclusively uses TextMate on his Air.
