@@ -2,7 +2,7 @@ Better Together: Building Scalable Real Time Collaborative Apps with Node.js
 ========================
 
 * Speaker   : Kav Latiolais
-* Available : Ideally some time after noon either day (Love the Session 10 spot)
+* Available : afternoon on Sunday (trying to adjust schedule to open this up a bit.)
 * Length    : ~1 hour (Can adjust content, but will need to update abstract.)
 
 Description
