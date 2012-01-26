@@ -1,5 +1,6 @@
 ---
 layout: speakers
-speaker_name: Coming Soon...
+title: Coming Soon...
+slug: coming_soon
 ---
 Speaker profiles are coming soon!

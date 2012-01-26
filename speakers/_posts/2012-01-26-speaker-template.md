@@ -1,9 +1,10 @@
 ---
 layout: speakers
-speaker_name: John Doe
-speaker_image_url: http://johndoe.com/images/johndoe.png
-speaker_url: http://johndoe.com
+title: John Doe
+image_url: http://johndoe.com/images/johndoe.png
+item_url: http://johndoe.com
 read_more_url: http://johndoe.com/about.html
+slug: john_doe
 published: false
 ---
 

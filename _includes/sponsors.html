@@ -1,10 +1,7 @@
-{% if item.logo_url %}
-<img src='{{item.logo_url}}' alt="logo" width="128">
-{% endif %}
-{% if item.company_name %}
-<h2>{{item.company_name}}</h2>
-{% endif %}
-{% if item.company_url %}
-<a href='{{item.company_url}}'>{{item.company_url}}</a>
-{% endif %}
+{% if item.slug %}<a class="slug" name="{{item.slug}}">{% endif %}
+{% if item.title %}<h2>{{item.title}}</h2>{% endif %}
+{% if item.slug %}</a>{% endif %}
+{% if item.image_url %}<img src='{{item.image_url}}' alt="logo" width="128">{% endif %}
+{% if item.title %}<h2>{{item.title}}</h2>{% endif %}
+{% if item.item_url %}<a href='{{item.item_url}}'>{{item.item_url}}</a>{% endif %}
 {{item.content}}

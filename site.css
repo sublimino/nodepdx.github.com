@@ -162,7 +162,13 @@ a {
   }
 
 a:hover {
+  cursor: pointer;
   text-decoration: underline;
+}
+
+a.slug:hover {
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .top-section { 

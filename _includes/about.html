@@ -1,5 +1,4 @@
 {% if item.slug %}<a class="slug" name="{{item.slug}}">{% endif %}
 {% if item.title %}<h2>{{item.title}}</h2>{% endif %}
 {% if item.slug %}</a>{% endif %}
-{% if item.date %}<small class='date'>{{item.date | date:"%b %d %Y"}}</small>{% endif %}
 {{item.content}}
