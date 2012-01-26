@@ -1,5 +1,5 @@
 ---
-layout: sponsor
+layout: sponsors
 company_name: Julie Olver
 company_url: https://plus.google.com/106454809408036867119/about
 logo_url: http://nodepdx.github.com/sponsors/julie.jpg
