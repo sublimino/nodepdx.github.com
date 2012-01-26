@@ -248,7 +248,7 @@ div.prose {
 .prose object,
 .prose .ts-map {
   display:block;
-  margin:0px 0px 20px;
+  padding:20px 0px 5px;
   }
 
 .prose li { margin-left:30px; }
