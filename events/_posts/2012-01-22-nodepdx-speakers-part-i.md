@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: news
 title: NodePDX Speakers Part I
 ---
 We've been busy over the last few days to bring you some great content from some rockin' speakers. Adron Hall has speaker introductions on his blog [Composite Code](http://compositecode.com), with the first three;

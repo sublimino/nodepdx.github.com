@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: news
 title: NodePDX 2012 Dates Are Set
 ---
 We've settled on the dates for NodePDX 2012. Mark your calendars off for Feb. 11/12, 2012. 

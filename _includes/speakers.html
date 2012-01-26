@@ -1,0 +1,13 @@
+{% if item.speaker_image_url %}
+<img src='{{item.speaker_image_url}}' alt="logo" width="200">
+{% endif %}
+{% if item.speaker_name %}
+<h2>{{item.speaker_name}}</h2>
+{% endif %}
+{% if item.speaker_url %}
+<a href='{{item.speaker_url}}'>{{item.speaker_url}}</a>
+{% endif %}
+{{item.content}}
+{% if item.read_more_url %}
+<a href='{{item.read_more_url}}'>Read more...</a>
+{% endif %}
