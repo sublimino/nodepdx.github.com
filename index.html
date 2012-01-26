@@ -3,42 +3,11 @@ layout: default
 title: NodePDX
 rss: /blog.rss
 ---
-<div class='nav prose'>
-  <script type="text/javascript">
-    function doNavigation(postSection)
-    {
-        event.preventDefault();
-        $('.posts').addClass('hidden');      
-        $('#' + postSection).removeClass('hidden');
-    };
-  </script>
-  <h1>
-    <a href="" onclick="doNavigation('news-posts')">NEWS</a>
-    <span> / </span>
-    <a href="" onclick="doNavigation('speaker-posts')">SPEAKERS</a>
-    <span> / </span>
-    <a href="" onclick="doNavigation('sponsors-posts')">SPONSORS</a>
-  </h1>
-</div>
-<!-- TODO: Turn these into separate pages.. <sigh> -->
+{% include nav.html %}
 <div id='news-posts' class='posts'>
     <div class='prose'>
       {% for item in site.categories['news'] limit:10 %}
       {% include news.html %}
-      {% endfor %}
-    </div>
-</div>
-<div id='speaker-posts' class='posts hidden'>
-    <div class='prose'>
-      {% for item in site.categories['speakers'] limit:10 %}
-      {% include speakers.html %}
-      {% endfor %}
-    </div>
-</div>
-<div id='sponsors-posts' class='posts hidden'>
-    <div class='prose'>
-      {% for item in site.categories['sponsors'] limit:10 %}
-      {% include sponsor.html %}
       {% endfor %}
     </div>
 </div>
