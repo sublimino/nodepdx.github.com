@@ -6,7 +6,7 @@ logo_url: http://nodepdx.github.com/sponsors/julie.jpg
 ---
 ### Who Are They?
 
-Julie Olver is an independent marketing specialist and graphic designer based in Portland, Oregon. If you need a relaxed and easy going marketing pro with an eye for modern design and experience that can help your company grow from bootstrapped startup to successful enterprise, Julie can help. You should [send her an email](julieolver@gmail.com).
+Julie Olver is an independent marketing specialist and graphic designer based in Portland, Oregon. If you need a relaxed and easy going marketing pro with an eye for modern design, who has the experience to help your company grow from bootstrapped startup to successful enterprise, Julie can help. You should [send her an email](julieolver@gmail.com).
 
 ### What Did They Contribute?
 
