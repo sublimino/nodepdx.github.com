@@ -1,5 +1,5 @@
 ---
-layout: news
-title: Coming Soon...
+layout: speakers
+speaker_name: Coming Soon...
 ---
 Speaker profiles are coming soon!
