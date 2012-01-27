@@ -9,8 +9,6 @@ Feel free to use the NodePDX logos and badges on your site!
 [Download Archive](/assets/nodepdx-logo.zip) (.ai, .svg, .png)
 
 ![nodepdx-logo.png] (/assets/nodepdx-logo/nodepdx-logo.png)
-![nodepdx-logo-medium.png] (/assets/nodepdx-logo/nodepdx-logo-medium.png)
-![nodepdx-logo-large.png] (/assets/nodepdx-logo/nodepdx-logo-large.png)
 
 ## Badges
 [Download Archive](/assets/nodepdx-site-badge.zip)  (.png)
