@@ -1,3 +1,8 @@
+
+** UPDATE: The schedule is now full and we can not accept any more submissions. Thanks! ** 
+==========================================================================================
+
+
 How To Submit A Proposal
 ========================
 
