@@ -1,0 +1,8 @@
+---
+layout: speakers
+title: Ward Cunningham
+image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-dK6KfCQ/0/O/ward.jpg
+read_more_url: http://compositecode.com/2012/01/25/ward-cunningham-presenting-missing-from-the-beginning-the-federation-of-wikis-nodepdx/
+slug: ward_cunningham
+---
+I’m extremely happy to introduce Ward Cunningham. He’ll be presenting “Missing From the Beginning: The Federation of Wikis” at NodePDX.

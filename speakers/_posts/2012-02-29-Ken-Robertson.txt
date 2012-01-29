@@ -3,5 +3,6 @@ layout: speakers
 title: Ken Robertson
 image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-SrZJcM4/0/L/IMG20110915095053-L.jpg
 read_more_url: http://compositecode.com/2012/01/23/ken-robertson-to-present-battlebots-in-the-clouds-with-node-js-nodepdx/
+slug: ken_robertson
 ---
 Ken Robertson is coming to us from the San Francisco area with a battle to wage. Join in for Battle Bots in the Clouds!
