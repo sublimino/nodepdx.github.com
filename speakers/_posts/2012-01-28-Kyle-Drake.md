@@ -1,11 +1,8 @@
 ---
 layout: speakers
-title: John Doe
-image_url: http://johndoe.com/images/johndoe.png
-item_url: http://johndoe.com
-read_more_url: http://johndoe.com/about.html
-slug: john_doe
-published: false
+title: Kyle Drake
+image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-NDLCfJH/0/O/kyle-drake.jpg
+read_more_url: http://compositecode.com/2012/01/24/kyle-drake-to-present-building-a-real-time-geolocation-game-with-geoloqi-using-node-js-nodepdx/
+slug: kyle_drake
 ---
-
-Your content goes here!! Set "published" to true, or simply remove the line in the front matter block to make this visible on the site.
+Kyle Drake, a Geoloqi Coder & frequent co-hackathon hacker & tea drinker I know, will be presenting how Kyle and team at Geoloqi built a real-time geolocation game with Node.js and the Geoloqi API & Services. 
