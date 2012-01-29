@@ -1,6 +1,7 @@
 ---
 layout: event
 title: NodePDX Speakers Part II
+slug: nodepdx_speakers_part_ii
 ---
 More awesome is coming together for. Additional speakers listed below plus sponsors have registered to help get some swag & other secret stuff for all.
 
