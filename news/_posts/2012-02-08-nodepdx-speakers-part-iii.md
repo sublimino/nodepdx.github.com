@@ -9,5 +9,6 @@ The final list of speakers has shaped up!
 - Scott Koon [@lazycoder](https://twitter.com/#!/lazycoder) presenting [NODE! Huh! What else is it good for?](http://compositecode.com/2012/01/31/scott-koon-presenting-node-huh-what-else-is-it-good-for-nodepdx/)
 - Aaron Stannard [@aaronontheweb](https://twitter.com/#!/aaronontheweb) presenting [Building Node.JS Applications on Windows Azure](http://compositecode.com/2012/01/30/aaron-stannard-presenting-building-node-js-applications-on-windows-azure-nodepdx/)
 - Daniel Erickson [@techwraith](https://twitter.com/#!/techwraith) presenting [Geddy – A better framework for building apps on node](http://compositecode.com/2012/01/29/presenting-geddy-a-better-framework-for-building-apps-on-node-nodepdx/)
+- Kav Latiolais [@kavla](https://twitter.com/#!/kavla) presenting [Better Together: Building Scalable Real Time Collaborative Apps with Node.js](http://compositecode.com/2012/01/28/kav-latiolais-presenting-better-together-building-scalable-real-time-collaborative-apps-with-node-js-nodepdx/)
 
 Get [RSVP](http://lanyrd.com/2012/nodepdx/)ed!
