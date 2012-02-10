@@ -6,7 +6,7 @@ slug: streaming
 
 So it's Friday and you're coming to NodePDX tomorrow, right? Oh. [Wat](https://www.destroyallsoftware.com/talks/wat)? You're still chillaxing in San Francisco? Waiting for the subway in NYC? Hanging out in a coffee shop in Amsterdam? 
 
-No problem. Fear not my fellow Nodistas, the entire conference will be streamed live and the talks will be recorded and available for later viewing. All of this is happening on the [NodePDX Livestream Channel](http://www.livestream.com/nodepdx](http://www.livestream.com/nodepdx)
+No problem. Fear not my fellow Nodistas, the entire conference will be streamed live and the talks will be recorded and available for later viewing. All of this is happening on the [NodePDX Livestream Channel](http://www.livestream.com/nodepdx)
 
 Also, you may or may not have heard but [New Relic](http://newrelic.com) is sponsoring an open-bar, hosted happy-hour on Saturday night from 6-8pm at [Lotus](http://www.cegportland.com/lotushttp://www.cegportland.com/lotus). Come join us!
 
