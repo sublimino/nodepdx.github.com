@@ -1,0 +1,8 @@
+---
+layout: speakers
+title: Daniel Erickson
+image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-XNVBdxc/0/S/techwraith-S.jpg
+read_more_url: http://compositecode.com/2012/01/29/presenting-geddy-a-better-framework-for-building-apps-on-node-nodepdx/
+slug: daniel_erickson
+---
+Daniel Erickson Presenting “Geddy – A better framework for building apps on node” @ #NodePDX

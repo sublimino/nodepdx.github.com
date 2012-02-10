@@ -1,0 +1,8 @@
+---
+layout: speakers
+title: Scott Koon
+image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-Krg5Zds/0/S/299266101503325999409806934559-S.jpg
+read_more_url: http://compositecode.com/2012/01/31/scott-koon-presenting-node-huh-what-else-is-it-good-for-nodepdx/
+slug: scott_koon
+---
+Scott Koon Presenting “NODE! Huh! What else is it good for?” @ #NodePDX
