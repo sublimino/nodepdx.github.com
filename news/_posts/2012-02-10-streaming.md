@@ -12,6 +12,6 @@ Also, you may or may not have heard but [New Relic](http://newrelic.com) is spon
 
 Sunday night we'll be heading over to [The Guild Public House](http://theguildpub.com/) for drinks. They are going to have my favourite 80's hacker movie, [War Games](http://en.wikipedia.org/wiki/WarGames) on the big screen starting at 7pm, and you'll get a $1 off your draft beers just by showing your [NodePDX badge](http://twitpic.com/8i5uty). Complete with free wifi, some cool video games upstairs and a bartender that can mix a serious [Sazerac](http://en.wikipedia.org/wiki/Sazerac)... What better way to relax after the conference? See you there Sunday night around 6:30pm!  
 
-If you just can't wait and want to get in the mood early... Watch this [mesmerizing demo](http://nodepdx.github.com/assets/demo/demo.html] that [@thoward37](https://twitter.com/#!/thoward37) made in pure Javascript/HTML5. This will be rolling on the projector in between talks. Woot!
+If you just can't wait and want to get in the mood early... Watch this [mesmerizing demo](http://nodepdx.github.com/assets/demo/demo.html) that [@thoward37](https://twitter.com/#!/thoward37) made in pure Javascript/HTML5. This will be rolling on the projector in between talks. Woot!
 
 If you're a procrastinator like me (too much lazily evaluated coding)... It's not too late to [RSVP](http://lanyrd.com/2012/nodepdx/)!
