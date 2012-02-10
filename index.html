@@ -6,7 +6,7 @@ rss: /blog.rss
 {% include nav.html %}
 <div id='news-posts' class='posts'>
     <div class='prose'>
-      {% for item in site.categories['news'] limit:10 %}
+      {% for item in site.categories['news'] limit:20 %}
       {% include news.html %}
       {% endfor %}
     </div>
