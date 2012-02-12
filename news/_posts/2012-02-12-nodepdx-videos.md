@@ -5,6 +5,8 @@ slug: streaming
 ---
 http://www.livestream.com/nodepdx
 
+Here's some of the first presentations. Check em' out! There are more to come, they'll be published as they're wrapped up.
+
 Eric Redmond
 <iframe width="560" height="340" src="http://cdn.livestream.com/embed/nodepdx?layout=4&amp;clip=pla_84d1391f-49c6-4a54-b25a-c9c54028c93c&amp;height=340&amp;width=560&amp;autoplay=false" style="border:0;outline:0" frameborder="0" scrolling="no"></iframe><div style="font-size: 11px;padding-top:10px;text-align:center;width:560px">Watch <a href="http://www.livestream.com/?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks" title="live streaming video">live streaming video</a> from <a href="http://www.livestream.com/nodepdx?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks" title="Watch nodepdx at livestream.com">nodepdx</a> at livestream.com</div>
 
