@@ -290,7 +290,34 @@ img {
 
 /* 320px */
 @media handheld, only screen and (max-width: 320px) {
-/*	header{
-		height:280px;
-	}*/
+	body { 
+		font-size: 12px;
+	}
+	header {
+		height: 128px;
+	  padding-top: 64px;
+	}
+
+	div.logo_banner {
+	  height: 64px;
+	}
+
+	h1.logo_banner, .logo_banner h1 { 
+	 font-size: 50px;
+	 line-height: 50px;
+	 padding: 8px;
+	}
+
+	.input-append input {
+		font-size: 12px;
+	}
+
+	.social { 
+		display: block;
+		margin-bottom: 20px;
+	}
+
+	.footer_copy { 
+		margin-left: 15px;
+	}
 }
