@@ -283,13 +283,6 @@ img {
 
 /* 380px */
 @media handheld, only screen and (max-width: 380px) {
-/*	header{		
-		height: 310px;
-	}*/	
-}
-
-/* 320px */
-@media handheld, only screen and (max-width: 320px) {
 	body { 
 		font-size: 12px;
 	}
@@ -305,6 +298,40 @@ img {
 	h1.logo_banner, .logo_banner h1 { 
 	 font-size: 50px;
 	 line-height: 50px;
+	 padding: 8px;
+	}
+
+	.input-append input {
+		font-size: 12px;
+	}
+
+	.social { 
+		display: block;
+		margin-bottom: 20px;
+	}
+
+	.footer_copy { 
+		margin-left: 15px;
+	}
+}
+
+/* 240px */
+@media handheld, only screen and (max-width: 240px) {
+	body { 
+		font-size: 11px;
+	}
+	header {
+		height: 96px;
+	  padding-top: 48px;
+	}
+
+	div.logo_banner {
+	  height: 48px;
+	}
+
+	h1.logo_banner, .logo_banner h1 { 
+	 font-size: 30px;
+	 line-height: 30px;
 	 padding: 8px;
 	}
 
