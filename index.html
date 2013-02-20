@@ -71,7 +71,7 @@
 
   <div class="shape"></div>
 
-  <section class="services">
+  <section class="call-to-action">
     <div class="container">
       <div class="row pagination-centered">
         <div class="span4">
@@ -92,13 +92,14 @@
       </div>
     </div>
   </section>
+  <div class="shape"></div>
 
   <section class="info">
     <div class="container">
       <div class="row">
         <h1 class="logo_banner yellow">NODEPDX 2013</h1>
         <h1 class="logo_banner yellowgreen">MAY 16-17, PORTLAND</h1>
-        <h1 class="title">Pre-register Now!</h1>
+        <h1 class="pagination-centered">Pre-register Now!</h1>
         <div class="offset2 span8 pagination-centered">
           <p>Early-bird tickets will be available soon, but you don't have to wait to get pre-registered.</p>
           <p><b>Sign up below</b> and you'll be among the first to get a ticket.</p>
@@ -120,17 +121,21 @@
       </div>
     </div>
   </section>
+  <div class="shape"></div>
 
   <!-- Map -->
   <section class="map">
     <div class="map" id="map"></div>
   </section>
+  
+  <div class="shape"></div>
 
   <!-- Footer -->
   <div class="footer">
     <div class="row-fluid">
-      <div class="span4 offset4">
+      <div class="span6 offset3">
         <span class="social">
+          <a href="mailto:thoward37@gmail.com?Subject=[nodepdx]%20General%20Question" title="Email"><i class="icon-email"></i></a>
           <a href="https://github.com/nodepdx" title="Github"><i class="icon-github-text"></i></a>
           <a href="https://twitter.com/nodepdx" title="Twitter"><i class="icon-twitter-1"></i></a>
         </span>
@@ -174,7 +179,7 @@
           "featureType": "all", 
           "elementType": "all",
           "stylers": [ 
-              { "saturation": "-70" }  
+              { "saturation": "-100" }  
             ] 
         } 
       ];
@@ -201,7 +206,7 @@
       var infowindow = new google.maps.InfoWindow({
         maxWidth: 500,
         position: markerPos,
-        content: '<div class="clearfix"><h4>Portland, Oregon</h4></div>'
+        content: '<h4 style="color: black;">Portland, Oregon</h4>'
       });
 
       // uncomment to show marker popup at load vs user click on marker
