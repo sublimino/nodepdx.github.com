@@ -31,12 +31,6 @@ If you have any other artifacts that relate to your presentation, like slide dec
 What are we looking for?
 ------------------------
 
-We're looking for anything related to Node.js. It can be a five minute lightening talk, an hour long presentation or a song and dance routine with dancing bears (as long as the lyrics are about Node.js). 
+We're looking for anything related to JavaScript, not limited to just Node.js. It can be Node.js, UX Flow & UI Magic, JavaScript Practices, Patterns or how to fly a spaceship with JavaScript or build a giant robot run by Node.js or something. It's all possible, with the core idea of JavaScript driven. 
 
-We're also open to suggestions for unconference topics. For example, suppose you really want to talk about MongoDB in Node.js but don't have a presentation, maybe just some questions or experiences to share? We can set aside a 30 minute block of time where we just dedicate a room to that topic. Anyone can show up who wants to discuss the topic. We're flexible.
-
-
-Compensation, money, and all that Jazz
---------------------------------------
-
-This is a free conference. No one is paying to attend and we're not paying anyone to speak, flying them in or paying for hotel rooms. If that was on your mind, forget about it. You're welcome to crash on someone's couch and we'll gladly buy you a beer.
+We're also open to suggestions for unconference topics & especially any hardware hacking. For example, suppose you really want to hack and talk about Arduinos but don't have a presentation, maybe just some questions or experiences to share? We can set aside a 30 minute block of time where we just dedicate a room to that topic. Anyone can show up who wants to discuss the topic. We're flexible.
