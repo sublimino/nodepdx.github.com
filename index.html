@@ -38,22 +38,14 @@
   <link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-touch-icon-72x72.html">
   <link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-touch-icon-114x114.html">
 
-  <!-- CSS -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">  
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap-responsive.min.css">  
 
-  <!-- 1140.css  - include resets ( Media querys, grid-responsive,layout). -->
-  <link rel="stylesheet" href="css/1140.css">
-
-  <!-- jquery.fancybox-1.3.1.css  - Lightbox -->
-  <link rel="stylesheet" href="js/fancybox/jquery.fancybox-1.3.1.css">
-  <link rel="stylesheet" href="css/slide.css">
+  <!-- Fonts -->
+  <link rel="stylesheet" href="http://roboto-webfont.googlecode.com/svn/trunk/roboto.all.css">
   <link rel="stylesheet" href="css/fontello.css">
   <link rel="stylesheet" href="css/typography.css">
-  <!-- <link rel="stylesheet" href="css/carousel/flexslider.css"> -->
-  <link rel="stylesheet" href="css/tyopgraphy.css">
-  
-  <!-- Google Fonts -->
-  <link rel="stylesheet" href="http://roboto-webfont.googlecode.com/svn/trunk/roboto.all.css">
-  <!-- <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Pacifico"> -->
 
   <link rel="stylesheet" href="css/styles.css">
   
@@ -64,79 +56,69 @@
   <!--[if lte IE 8]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-
-  <!-- 1140px Grid styles for IE -->
-  <!--[if lte IE 8]>
-    <link rel="stylesheet" href="ie/ie.css" type="text/css" media="screen" />
-  <![endif]-->
 </head> 
 <body onload="initialize();">
   
   <header>
     <div class="container">
-      <div class="row">
-        <h1>nodePDX</h1>
+      <div class="row-fluid">
+        <div class="span12 logo_banner">
+          <h1 class="darkgrey">nodePDX</h1>
+        </div>
       </div>
     </div>
   </header>
 
   <div class="shape"></div>
 
-  <section class="info">
-    <div class="row">
-      <div class="services">  
-        <div class="fourcol">
-          <div class="cta-icon">
-            <img src="img/pet.png" alt="pet" />
-          </div>
+  <section class="services">
+    <div class="container">
+      <div class="row pagination-centered">
+        <div class="span4">
+          <div class="cta-icon pet"></div>
           <h1>Hardware</h1>
-          <h6>JavaScript is powering more and more hardware. Come be part of a hands-on hardware-focused track entirely devoted to building things and writing JS code to make them tick.</h6>
+          <h6>They're taking the world by storm. Quad coptors, remote control Lego Trains, Robots, cybernetic implants. The hardware world is being revolutionized in so many ways and JavaScript with Node.js is charging ahead. We're aiming to push that charge forward with a track dedicated to hardware hacking, so bring your ideas, your hardware, your code &amp; let's hack.</h6>
         </div>
-        <div class="fourcol">
-          <div class="cta-icon">
-            <img src="img/rollerskate.png" alt="rollerskate" />
-          </div>
+        <div class="span4">
+          <div class="cta-icon rollerskate"></div>
           <h1>Software</h1>
-          <h6>JavaScript lives in your browser, your server, your phone, your database, and possibly even your thermostat. Hear about some of the coolest developments in the world of JS code, or write the next best thing during the hackathons.</h6>
+          <h6>Code, it's in every thing we touch these days. JavaScript is stepping into new code realms everyday, in the browser, server, phone, databases, map reductions, your house and even in places we've no idea yet. Where are we heading next with JavaScript, what else should we do with it? Come hear about and contribute to the coolest developments in the world of JavaScript.</h6>
         </div>
-        <div class="fourcol last">
-          <div class="cta-icon">
-            <img src="img/shades.png" alt="shades" />
-          </div>
+        <div class="span4">
+          <div class="cta-icon shades"></div>
           <h1>Independent</h1>
-          <h6>We love this stuff. We do this for fun and because we can't not do it. It's nice that there are companies that are willing to pay for this, otherwise, we'd be starving artists.</h6>
+          <h6>We love this stuff. We love building things. We do this for the fun of it and because we just can't not do it! We love that it provides so much monetary value to society, as companies actually pay us to do this stuff. Otherwise we'd be starving artists, and we're cool with good food.</h6>
         </div>
-      </div>   
+      </div>
     </div>
   </section>
 
-  <section class="team info">
-    <div class="row">
-      <h1 class="datelogo">NODEPDX 2013</h1>
-      <h1 class="datelogo">MAY 16-17, PORTLAND</h1>
-      <h1 class="title">Pre-register Now!</h1>
-      <div class="twocol"></div>
-      <div class="eightcol centertext">
-        <p>Early-bird tickets will be available soon, but you don't have to wait to get pre-registered.</p>
-        <p><b>Sign up below</b> and you'll be among the first to get a ticket.</p>
-        <!-- Begin MailChimp Signup Form -->
-        <div id="mc_embed_signup">
-          <form action="http://github.us6.list-manage.com/subscribe/post?u=ce2eab93dde06aba1f06c6cc6&amp;id=21cdec98cc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-          <div class="mc-field-group">
-            <input type="email" value="" name="EMAIL" placeholder="email address" class="required email" id="mce-EMAIL">
-            <input type="submit" value="Preregister" name="subscribe" id="mc-embedded-subscribe" class="button">
+  <section class="info">
+    <div class="container">
+      <div class="row">
+        <h1 class="logo_banner yellow">NODEPDX 2013</h1>
+        <h1 class="logo_banner yellowgreen">MAY 16-17, PORTLAND</h1>
+        <h1 class="title">Pre-register Now!</h1>
+        <div class="offset2 span8 pagination-centered">
+          <p>Early-bird tickets will be available soon, but you don't have to wait to get pre-registered.</p>
+          <p><b>Sign up below</b> and you'll be among the first to get a ticket.</p>
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="http://github.us6.list-manage.com/subscribe/post?u=ce2eab93dde06aba1f06c6cc6&amp;id=21cdec98cc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate _lpchecked="1">
+              <div class="mc-field-group input-append">
+                <input type="email" placeholder="Email Address" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                <input type="submit" value="Preregister" name="subscribe" id="mc-embedded-subscribe" class="btn">
+              </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+            </form>
           </div>
-          <div id="mce-responses" class="clear">
-            <div class="response" id="mce-error-response" style="display:none"></div>
-            <div class="response" id="mce-success-response" style="display:none"></div>
-          </div>
-          <!-- <div class="clear"></div> -->
-          </form>
+          <!--End mc_embed_signup-->
         </div>
-
-        <!--End mc_embed_signup-->
+      </div>
     </div>
-        <div class="twocol last"></div>
   </section>
 
   <!-- Map -->
@@ -146,14 +128,13 @@
 
   <!-- Footer -->
   <div class="footer">
-    <div class="row">
-      <h3 class="footer_logo">nodePDX</h3>
-      <p>© NodePDX - Built with love and passion</p>
-      <div class="social">
-        <ul>
-          <!-- <li><a href="#" title="Facebook"><i class="icon-facebook-1"></i></a></li> -->
-          <li><a href="https://twitter.com/nodepdx" title="Twitter"><i class="icon-twitter-1"></i></a></li>
-        </ul>
+    <div class="row-fluid">
+      <div class="span4 offset4">
+        <span class="social">
+          <a href="https://github.com/nodepdx" title="Github"><i class="icon-github-text"></i></a>
+          <a href="https://twitter.com/nodepdx" title="Twitter"><i class="icon-twitter-1"></i></a>
+        </span>
+        <span class="footer_copy">© NodePDX - Built with love and passion</span>
       </div>
     </div>
   </div>
