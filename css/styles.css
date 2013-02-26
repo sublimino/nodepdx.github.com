@@ -150,10 +150,22 @@ section.call-to-action {
 	background:url(../img/shades.png) no-repeat center center;
 }
 
+.tape {
+	background:url(../img/tape.png) no-repeat center center;
+}
+
 /* info section */
 
 section.info { 
 	background-color: purple;
+}
+
+/* speaker section */
+
+section.speakers { 
+	/*background-color: #1663B5; */
+	background-color: #85E244;
+	color: #333;
 }
 
 /* map section */
@@ -253,6 +265,10 @@ img {
 	p {
 		margin-left: 10px;
 		margin-right: 10px;
+	}
+	.a-little-love {
+		margin-left: 10px;
+    margin-right: 10px;
 	}
 }
 
