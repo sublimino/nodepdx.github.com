@@ -11,7 +11,7 @@ The web application world is witnessing a JavaScript renaissance at all levels o
 
 At the same time, *testing* JavaScript web applications continues to be difficult and ad-hoc, particularly on the front-end. What if the front-end was (nearly) as easy to test as the back-end? What if we could use the *same* tools to test both?
 
-In this talk, we will explore a unified approach to testing end-to-end JavaScript applications using tools like Mocha, Chai, and Sinon.JS, making things easy, extensible, and conveniently... *similar*. In addition to the basics of setting up and running a unified test architecture, we will also touch on subjects such as:
+In this talk, we will explore a unified approach to testing end-to-end JavaScript applications using tools like Mocha, Chai, and Sinon.JS, making things easy, extensible, and conveniently... *similar*. In addition to the basics of setting up and running a combined test architecture, we will also touch on subjects such as:
 
 * Writing and testing shared code between the browser/server with AMD/RequireJS.
 * Automating and driving front-end/back-end tests from the command line using PhantomJS and Node.js.
