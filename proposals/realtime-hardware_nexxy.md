@@ -2,7 +2,7 @@
 ========================
 
 * Speaker   : Nexxy _(Emily Rose)_
-* Available : Always, all the time
+* Available : ~~Always, all the time~~ Most of the time
 * Length    : Until I drop the mic and walk off stage, or something catches fire (whichever comes first).*
 
 
