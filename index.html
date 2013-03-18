@@ -254,8 +254,8 @@
 
     // some globals about our map location
     var map;
-    var loc = new google.maps.LatLng(45.5236, -122.6750);
-    var markerPos = new google.maps.LatLng(45.5236, -122.6750);
+    var loc = new google.maps.LatLng(45.517587, -122.655359);
+    var markerPos = new google.maps.LatLng(45.517587, -122.655359);
 
     // called from body.onload
     function initialize() {
@@ -287,17 +287,17 @@
       var marker = new google.maps.Marker({
         position: markerPos,
         map: map,
-        title: "Portland"
+        title: "Holocene"
       });
 
       var infowindow = new google.maps.InfoWindow({
         maxWidth: 500,
         position: markerPos,
-        content: '<h4 style="color: black;">Portland, Oregon</h4>'
+        content: '<style>.marker h4, .marker p { color: black; } .marker p { padding: 0; margin: 0 0 5px 0; } .marker a { color: blue; }</style><div class="marker"><h4 style="color: black;">Holocene</h4><p>1001 Southeast Morrison Street</p><p>Portland, OR 97214</p><p>(503) 239-7639</p><a style="color: blue;" href="http://www.holocene.org/">http://www.holocene.org/</a></div>'
       });
 
       // uncomment to show marker popup at load vs user click on marker
-      // infowindow.open(map);
+      infowindow.open(map);
       
       google.maps.event.addListener(marker, 'click', function() {
         infowindow.open(map, marker);
