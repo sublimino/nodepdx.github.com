@@ -15,7 +15,7 @@ Let’s call a spade a spade: as the inventor of the wiki, Ward is one of the mo
 
 Nexxy, developer at [Ninja Blocks](http://ninjablocks.com/) and future overlord of the Internet of Things, doesn’t so much "give talks" as provide wonderfully bizarre multimedia experiences, complete with robots, smoke machines, strobe lights, and house music, all tied together with heavy doses of JavaScript. Not only that, but Nexxy is helping organize our hardware track, so we're pretty sure your mind is going to be blown, one way or another, possibly two or three ways at the same time.
 
-#### Jerry Sievert ([GitHub](https://github.com/JerrySievert), [Twitter](https://twitter.com/jerrysievert))
+#### Jerry Sievert ([Twitter](https://twitter.com/jerrysievert), [GitHub](https://github.com/JerrySievert))
 
 Jerry loves building things, and is the resident JavaScript guru at [Esri](http://www.esri.com/)’s Portland R&D Center (formerly [Geoloqi](https://geoloqi.com/)). If you’ve been to [Bailey’s Taproom](http://www.baileystaproom.com/) here in PDX, then you’ve seen Jerry’s handiwork without knowing it, as Jerry managed to string together the series of behind-the-scenes [Raspberry Pis](http://www.raspberrypi.org/) that now power the Bailey’s digital interface. We've seen Jerry chillin' with an [Arduino](http://legitimatesounding.com/blog/Evented_Arduino_with_Node_js.html) wired up to an Apple computing product with JavaScript code on the console. Awesome. Jerry and Nexxy are cohorting to organize the hardware track and just might teach you how to solder, if you ask nicely.
 
