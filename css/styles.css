@@ -212,6 +212,16 @@ section.speakers {
   margin-bottom: 24px;
 }
 
+.speaker-text a {
+  color: #7a7e83;
+}
+
+.speaker-text a:hover {
+  color: #7a7e83;
+  /*text-decoration: underline;*/
+  border-bottom: dotted 2px hotpink;
+}
+
 .speaker-image {
   position: relative;
 }
@@ -255,7 +265,7 @@ section.speakers {
 }
 
 .speaker-social ul li a {
-  background-color: #08c;
+  background-color: #08e;
   border-radius: 100% 100% 100% 100%;
   font-size: 20px;
   padding: 10px;
@@ -273,8 +283,15 @@ section.speakers {
 
 .speaker-social ul li a:hover {
   border-radius: 50%;
-  box-shadow: 0 0 0 5px rgba(0,114,208,0.5);
+  /*box-shadow: 0 0 0 5px rgba(0,114,208,0.5);*/
+  box-shadow: 0 0 0 5px rgba(255,255,0,0.75);
   cursor: pointer;
+  color: yellow;
+}
+
+hr.cfp  { 
+  border-bottom: dotted yellow;
+  border-top: none;
 }
 
 /* blog section */
