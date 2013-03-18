@@ -11,7 +11,7 @@ This year, NodePDX will be held at the lovely [Holocene](http://www.holocene.org
 
 Let’s call a spade a spade: as the inventor of the wiki, Ward is one of the most important figures in the history of digital information exchange. But, not content to rest on figurative laurels, Ward continues to be very active in the Portland tech scene and remains a prolific innovator. Last year Ward shared with us a wonderful, Node/JavaScript-driven example of that; his [The Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki). This year, we'll see a deep dive, from solder to css, showing how data is surfaced from DIY sensors at Ward's home, then shared onto a federated wiki page via a custom DSL.
 
-#### Nexxy Love ([Twitter](https://twitter.com/nexxylove), [GitHub](https://github.com/nexxy))
+#### Nexxy ([Twitter](https://twitter.com/nexxylove), [GitHub](https://github.com/nexxy))
 
 Nexxy, developer at [Ninja Blocks](http://ninjablocks.com/) and future overlord of the Internet of Things, doesn’t so much "give talks" as provide wonderfully bizarre multimedia experiences, complete with robots, smoke machines, strobe lights, and house music, all tied together with heavy doses of JavaScript. Not only that, but Nexxy is helping organize our hardware track, so we're pretty sure your mind is going to be blown, one way or another, possibly two or three ways at the same time.
 
