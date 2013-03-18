@@ -67,7 +67,7 @@ h1.title {
 	text-decoration: underline;
 }
 
-.darkgrey {
+.darkgrey, .darkgrey:hover {
   color: #333;	
 }
 
@@ -113,7 +113,6 @@ h1.logo_banner, .logo_banner h1, .logo_banner a {
  vertical-align: middle;
  padding: 16px;
  text-align: center;
- color: #333;
 }
 
 /* call-to-action section */
