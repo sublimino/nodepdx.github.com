@@ -105,7 +105,7 @@ div.logo_banner {
   height: 128px;
 }
 
-h1.logo_banner, .logo_banner h1 { 
+h1.logo_banner, .logo_banner h1, .logo_banner a { 
  font-family: 'Roke1984';
  font-size: 100px;
  font-weight: normal;
@@ -113,6 +113,7 @@ h1.logo_banner, .logo_banner h1 {
  vertical-align: middle;
  padding: 16px;
  text-align: center;
+ color: #333;
 }
 
 /* call-to-action section */
@@ -166,6 +167,45 @@ section.speakers {
 	/*background-color: #1663B5; */
 	background-color: #85E244;
 	color: #333;
+}
+
+/* blog section */
+
+section.blog { 
+	background-color: peachpuff;
+	color: #333;
+}
+
+section.blog h1 { 
+	color: purple;
+}
+
+section.blog a { 
+	color: purple;
+	text-decoration: none;
+}
+
+section.blog a:hover { 
+	color: lightcoral;
+	text-decoration: none;
+}
+
+section.blog hr { 
+  border: 0;
+  border-bottom: 3px dashed purple;
+  background: #ccc;
+}
+
+p.post-date { 
+	font-style: italic;
+  font-size: small;
+}
+
+.post-content { 
+	margin: 40px 0;
+}
+.post-navigation { 
+	margin: 40px 0;
 }
 
 /* map section */
