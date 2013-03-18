@@ -1,8 +1,0 @@
----
-layout: speakers
-title: Aaron Stonnard
-image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-34xMkJW/0/Th/member9837370-Th.jpg
-read_more_url: http://compositecode.com/2012/01/30/aaron-stannard-presenting-building-node-js-applications-on-windows-azure-nodepdx/
-slug: aaron_stonnard
----
-Aaron Stannard Presenting “Building Node.JS Applications on Windows Azure” @ #NodePDX

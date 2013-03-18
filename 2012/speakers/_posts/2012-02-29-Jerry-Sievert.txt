@@ -1,8 +1,0 @@
----
-layout: speakers
-title: Jerry Sievert
-image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-5VB5N5H/0/O/headshot.png
-read_more_url: http://compositecode.com/2012/01/21/node-fu-expert-jerry-sievert-to-present-at-nodepdx/
-slug: jerry_sievert
----
-This next presenter, a Portlander, is Jerry Sievert. Jerry’s a good friend of mine, a connoisseur of awesome things (like beer, distilling, etc) and a bad ass Node-fu Master. Jerry has built the brick.js web framework and will be teaching us all a thing or three about this framework. Which as any self respecting coder would, Jerry has the brick.js code up on github.

@@ -1,8 +1,0 @@
----
-layout: speakers
-title: Subbu Allamaraju
-image_url: http://adronhall.smugmug.com/Software/Meetups/PDX-Nodejs-Conference/i-sPJtNvG/0/S/subrah-S.jpg
-read_more_url: http://compositecode.com/2012/02/01/subbu-allamaraju-presenting-ql-io-consuming-http-apis-at-scale-nodepdx/
-slug: Subbu-Allamaraju
----
-Subbu Allamaraju Presenting “ql.io – Consuming HTTP APIs at Scale” @ #NodePDX
