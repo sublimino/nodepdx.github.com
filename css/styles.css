@@ -327,6 +327,11 @@ img.newrelic {
   width: 160px;
 }
 
+img.devion {
+  width: 160px;
+  padding-right: 30px
+}
+
 /* blog section */
 
 section.blog { 
