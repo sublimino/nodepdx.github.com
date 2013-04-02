@@ -159,8 +159,32 @@ section.call-to-action {
 
 section.info { 
   background-color: indigo;
+  color: #eee;
 }
 
+div.register { 
+  margin: 60px 0 30px;
+}
+
+.register-button { 
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 10px;
+}
+
+.info p a, .info h4 a {
+  color: yellow; 
+}
+
+.info p a:hover, .info h4 a:hover { 
+  text-decoration: none;
+  border-bottom: dotted 2px yellowgreen; 
+}
+
+.info h2 {
+
+  margin-top: 30px;
+}
 /* speaker section */
 
 section.speakers { 
@@ -325,6 +349,7 @@ img.janrain {
 
 img.newrelic {
   width: 160px;
+  padding-right: 30px
 }
 
 img.devion {
@@ -431,7 +456,7 @@ img {
 }
 
 .footer_copy {
-  margin-left: 24px;
+  margin-left: 20px;
 }
 
 .footer_logo { 
@@ -446,9 +471,18 @@ img {
 
 
 /* RESPONSIVE QUERIES */
-
+@media (max-width: 1200px) {
+  .speaker-item { 
+    min-height: 384px;
+  }
+}
 /* 1024px */
 @media handheld, only screen and (max-width: 1024px) {
+}
+@media (min-width: 768px) and (max-width: 979px) {
+  .info input[type=email] { 
+    width: 162px;
+  }
 }
 
 /* 768px */
@@ -457,14 +491,10 @@ img {
     right: 30px;
   }
   
-  .social { 
-    margin-left: 10px;
+  .social, .footer_copy { 
+    margin-left: 20px;
   }
 
-  .call-to-action h6 {
-    margin-right: 10px;
-    margin-left: 10px;
-  }
   p {
     margin-left: 10px;
     margin-right: 10px;
@@ -472,6 +502,15 @@ img {
   .a-little-love {
     margin-left: 10px;
     margin-right: 10px;
+  }
+  .call-to-action .container, .speakers .container, .info .container, .sponsors .container {
+    margin: 20px;
+  }
+  .speaker-row { 
+    margin: 0;
+  }
+  .speakers h1 { 
+    margin: 40px 0;
   }
 }
 
@@ -497,10 +536,16 @@ img {
 }
 
 /* 480px */
-@media handheld, only screen and (max-width: 480px) {
-  h1.logo_banner, .logo_banner h1 { 
+@media handheld, only screen and (max-width: 520px) {
+  .logo_banner a { 
    font-size: 90px;
    line-height: 90px;
+   padding: 10px;
+  }
+
+  h1.logo_banner, .logo_banner h1 { 
+   font-size: 70px;
+   line-height: 70px;
    padding: 10px;
   }
 
@@ -513,13 +558,10 @@ img {
     margin-bottom: 20px;
   }
 
-  .footer_copy { 
-    margin-left: 15px;
-  }
 }
 
 /* 380px */
-@media handheld, only screen and (max-width: 380px) {
+@media handheld, only screen and (max-width: 420px) {
   body { 
     font-size: 12px;
   }
@@ -533,10 +575,17 @@ img {
     height: 64px;
   }
 
+  .logo_banner a { 
+   font-size: 60px;
+   line-height: 60px;
+   padding: 6px;
+  }
+
   h1.logo_banner, .logo_banner h1 { 
    font-size: 50px;
    line-height: 50px;
    padding: 8px;
+   margin-top: 0;
   }
 
   .input-append input {
@@ -559,7 +608,7 @@ img {
     height: 48px;
   }
 
-  h1.logo_banner, .logo_banner h1 { 
+  h1.logo_banner, .logo_banner h1, .logo_banner a {
    font-size: 30px;
    line-height: 30px;
    padding: 8px;
