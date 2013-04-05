@@ -8,7 +8,7 @@ Implementing Git in JavaScript & the Browser: A Case Study
 Description
 -----------
 
-Git is one of my [favorite things](https://github.com/chrisdickinson/git.js) to 
+Git is one of my [favorite things](https://github.com/chrisdickinson/git.js/tree/chris) to 
 [hack on](https://github.com/chrisdickinson/tempisfugit). It's long been my
 goal to get a working (workable?) implementation of git running in pure JS, in
 the browser. My first attempt two years ago failed; and for a long time I've
