@@ -14,8 +14,8 @@ goal to get a working (workable?) implementation of git running in pure JS, in
 the browser. My first attempt two years ago failed; and for a long time I've
 let the thought bounce around in the back of my head.
 
-Spurred on by the [recent funding of js-git](http://www.kickstarter.com/projects/creationix/js-git), I
-recently restarted the journey towards an in-browser git in order to help
+Spurred on by the [recent interest in js-git](http://www.kickstarter.com/projects/creationix/js-git), I
+recently restarted the journey towards an in-browser git, in order to help
 creationix deliver the best possible js-git. Newly armed with browserify
 and the small-module ethos, I've come much closer to a working git in browser
 (and in node!), and really put browserify (and its shims) through its paces
