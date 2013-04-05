@@ -18,8 +18,8 @@ Spurred on by the [recent interest in js-git](http://www.kickstarter.com/project
 recently restarted the journey towards an in-browser git, in order to help
 creationix deliver the best possible js-git. Newly armed with browserify
 and the small-module ethos, I've come much closer to a working git in browser
-(and in node!), and really put browserify (and its shims) through its paces
-in the process.
+and Node, and in the process have really put browserify and its shims through 
+their paces.
 
 This talk will be comprised of:
 
