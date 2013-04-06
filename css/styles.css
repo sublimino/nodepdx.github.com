@@ -329,32 +329,32 @@ section.sponsors {
   background-color: black;
   color: white;
 }
+section.sponsors img { 
+  width: 160px;
+  padding-right: 30px;
+  margin-top: 20px;
+}
 
 img.urbanairship {
-  padding-right: 30px
 }
 
 img.piepdx {
-  padding-right: 30px;
 }
 
 img.siliconflorist {
-  width: 256px;
-  padding-right: 30px
 }
 
 img.janrain {
-  margin-top: 43px; 
+  margin-top: 43px;
 }
 
 img.newrelic {
-  width: 160px;
-  padding-right: 30px
 }
 
 img.devion {
-  width: 160px;
-  padding-right: 30px
+}
+
+img.stickermule {
 }
 
 /* blog section */
