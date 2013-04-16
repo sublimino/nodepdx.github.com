@@ -56,5 +56,5 @@ We're really happy to welcome back another alumni sponsor, [New Relic](http://ne
 
 #### Devion (Payment Processing Partner)
 
-So, when you buy a ticket this year, you can thank [Devion (http://devion.com)  for enabling our payment processing. You can also thank them after you go sign a contract with them to build your next website and find yourself amazed at how nice it turned out and how friendly their support is. We're still not completely sure how to pronounce their name though. Is it like "DEV-EE-ON" or "DEE-VEE-ON"? Hopefully they can straighten us out on that at in person. I encourage you to chat them up at the conference and find out the answer (and then come tell me).
+So, when you buy a ticket this year, you can thank [Devion](http://devion.com)  for enabling our payment processing. You can also thank them after you go sign a contract with them to build your next website and find yourself amazed at how nice it turned out and how friendly their support is. We're still not completely sure how to pronounce their name though. Is it like "DEV-EE-ON" or "DEE-VEE-ON"? Hopefully they can straighten us out on that at in person. I encourage you to chat them up at the conference and find out the answer (and then come tell me).
 
