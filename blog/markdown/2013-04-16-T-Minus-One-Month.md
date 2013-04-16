@@ -6,7 +6,7 @@ They are on sale now for $50. They are going quickly, so [get one while they las
 
 ## Dance Party
 
-Yup, that dance party we've been talking about, totes happening on Thursday night. We've booked an amazing local electro-pop band to open the night: Ask You In Gray. Turns out they also just released a new album. Go check it out on [http://askyouingray.com](http://askyouingray.com). 
+Yup, that dance party we've been talking about, totes happening on Thursday night. We've booked an amazing local electro-pop band to open the night: Ask You In Gray. Turns out they also just released a new album. Go check it out on [http://askyouingray.com](http://askyouingray.com).
 
 ## CFP Is Over (or is it?)
 
@@ -16,7 +16,7 @@ The CFP officially ended on April 8th, but then we had some great late submissio
 
 #### Aron Racho
 
-The phrase "Romancing the Stone" is a piece of jewelers' jargon, referring to a step in preparing a gem for use in jewelry. It's also one of first films directed by the great Robert Zemeckis, who gave us such classics as Back To The Future, Forrest Gump, and Who Framed Roger Rabbit?. But we're not here to talk movies, or are we? Aron Racho, a talented guitar player and reformed Java developer, will tell us of his own journey to love JavaScript, which we will here-to-fore refer to using our own special jargon as "Bromancing the Node". I'm not completely sure what "bromancing" is, but Aron will be sharing that with us, straight from El Corazon.
+The phrase "Romancing the Stone" is a piece of jewelers' jargon, referring to a step in preparing a gem for use in jewelry. It's also one of first films directed by the great Robert Zemeckis, who gave us such classics as Back To The Future, Forrest Gump, and Who Framed Roger Rabbit?. But we're not here to talk movies, or are we? Aron Racho, a talented guitar player and reformed Java developer, will tell us of his own journey to love JavaScript, which we will henceforth refer to using our own special jargon as "Bromancing the Node". I'm not completely sure what "bromancing" is, but Aron will be sharing that with us, straight from El Corazon.
 
 #### Christopher Meiklejohn ([Twitter](https://twitter.com/cmeik), [GitHub](https://github.com/cmeiklejohn))
 
@@ -36,7 +36,7 @@ Mario, or "マリオ" in Japanese, is one of my favourite 8-bit plumbers. Knowin
 
     "Yo dawg, I heard you liked computers, so I put a computer in your computer so you could computer while you computer."
 
-This is a direct, verbatim quote from my favourite person-whose-last-name-is-the-name-of-a-cartoon-bunny, Zach Babb (ok, it was Babs, not Babb, but close, I say, and its a great mnemonic device). In all seriousness (it's opposite day), Zach is going to show us how to build a computer in your browser. Hmmm... Should this be on the hardware track or the software track; I'M NOT COMPLETELY SURE.
+This is a direct, verbatim quote (not really) from my favourite person-whose-last-name-is-the-name-of-a-cartoon-bunny, Zach Babb (ok, it was Babs, not Babb, but close, I say, and its a great mnemonic device). In all seriousness (it's opposite day), Zach is going to show us how to build a computer in your browser. Hmmm... Should this be on the hardware track or the software track; I'M NOT COMPLETELY SURE.
 
 
 ## Sponsors
@@ -57,12 +57,12 @@ Stickers are some of the best things ever. Last year, we gave out "Do Not Distur
 
 What's your Garbage Pail Kid name? 
 
-Adron <=> Large Adron Collider
-Troy <=> Destroy Troy
-Luc <=> Luc Puke
+* Adron == Large Adron Collider
+* Troy == Destroy Troy
+* Luc == Luc Puke
 
 Join in the fun! Post your Garbage Pail Kids name on Twitter with hashtags: #nodepdx and #garbagepailkids
 
 
 Later,
-GrodePDX
+NosePDX
