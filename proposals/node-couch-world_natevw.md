@@ -1,8 +1,10 @@
 # Node + CouchDB + World
 
-Speaker: Nathan Vander Wilt (@natevw)
-Available: from 11am Thursday to 3pm Friday
-Length: 30 min
+* Speaker : Nathan Vander Wilt (@natevw)
+* Available : from 11am Thursday to 3pm Friday
+* Length : 30 min
+
+(Hoping to actually be available the whole time and I can find many references who will attest that I can talk longer if necessary. Or shorter too, but wouldn't ask anyone to co-sign that loan.) 
 
 ## Description
 
