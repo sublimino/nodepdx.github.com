@@ -1,4 +1,4 @@
-# Node + CouchDB + World
+# CouchDB + Node + World
 
 * Speaker : Nathan Vander Wilt (@natevw)
 * Available : from 11am Thursday to 3pm Friday
