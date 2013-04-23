@@ -1,0 +1,24 @@
+# Node + CouchDB + World
+
+Speaker: Nathan Vander Wilt (@natevw)
+Available: from 11am Thursday to 3pm Friday
+Length: 30 min
+
+## Description
+
+Riddle: It started with photos, gained GPS logging, a blog system, a map editor, a hen egghouse graph and will soon involve aquaponics and <$5/node wireless networks.
+Also it involves 
+
+Give up? It's @natevw's paid/unpaid career! Orange you glad I didn't say webinar again?
+
+----
+
+I have no idea what that was either.
+
+Expect even worse from this talk, as I will be covering everything from node.js feeding CouchDB random scraps of household data to lessons learned using node.js and CouchDB for "real" products.
+
+We'll discuss why CouchDB is a good fit with node.js, why any of this is worth doing, some ideas and related projects for further integration between CouchDB and node.js.
+
+And if it's not too enterprisey, I'll share a bit of my experience deploying a "real" application with node.js middleware talking to Cloudant's backend — what went well, what could have "gone better".
+
+Then the talk will be over and you can have the mic and rip all my arguments to shreds. Or ask any questions, questions are nice.
