@@ -8,10 +8,10 @@
 
 ## Description
 
-Riddle: It started with photos, gained GPS logging, a blog system, a map editor, a henhouse egg graph and will soon involve aquaponics and <$5/node wireless networks.
-Also it involves 
+Riddle: It started with photos, gained GPS logging, a blog system, a map editor, a henhouse egg graph and will soon involve aquaponics and sub-$5/node wireless networks.
+Also it involves putting CouchDB+node.js systems "into production".
 
-Give up? It's @natevw's paid/unpaid career! Orange you glad I didn't say webinar again?
+Give up? It's @natevw's unpaid/paid career! Orange you glad I didn't say webinar again?
 
 ----
 
