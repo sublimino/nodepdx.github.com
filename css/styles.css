@@ -68,7 +68,7 @@ h1.title {
 }
 
 .darkgrey, .darkgrey:hover {
-  color: #333;  
+  color: #333 !important;
 }
 
 .yellow {
