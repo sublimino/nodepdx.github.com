@@ -1,9 +1,9 @@
 [Proposal Title]
 ========================
 
-* Speaker   : [Your Name, eg: *John Doe*]
-* Available : [Dates/Times Available, eg: *Feb 11th, 9am-12pm*]
-* Length    : [Length of Presentation, eg: *45 mins*]
+* Speaker   : [Your Name, eg: *Jane Doe*]
+* Available : [Dates/Times Available, eg: *Apr 20th, 9am-12pm*]
+* Length    : [Length of Presentation, eg: *20 mins*]
 
 Description
 -----------
@@ -16,11 +16,11 @@ Description
 Speaker Bio
 -----------
 
-I'm a big furry mammal that likes to run through the forest and splash in the stream and I write code in the water sometimes.
+I'm a big furry mammal that likes to run through the forest and splash in the streams and I write code sometimes.
 
 Links
 -----
 
-* Blog: http://bloggityblogblog.com/john-doe-does-code
-* Company: http://companitycompanycomp.com/john-doe-makes-cool-products
-* Github: http://github.com/john-doe
+* Blog: http://bloggityblogblog.com/jane-does-code
+* Company: http://companitycompanycomp.com/jane-doe-makes-cool-products
+* Github: http://github.com/jane-doe
