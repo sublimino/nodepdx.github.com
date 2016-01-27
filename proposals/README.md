@@ -6,6 +6,7 @@ Speaker proposals are handled through GitHub pull requests. Follow the instructi
 
 * Create a **GitHub account** if you don't have one already
 * **Fork this repository**
+* Review the **[Code of Conduct](https://github.com/nodepdx/nodepdx.github.com/blob/master/code-of-conduct.md)**
 * **Create and commit a .MD file** in this directory named after the talk title and your name. For example, if your talk is called "Intro To Node.js" and your name is Jane Doe, name the file **intro-to-nodejs_jane-doe.md**
 * When you're ready, **submit a pull request**
 * **Wait patiently** and nicely for us to contact you. We will respond to everyone who submits a proposal even if it's just to say "Thanks but no thanks".
