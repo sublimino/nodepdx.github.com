@@ -3,7 +3,7 @@
 
 * Speaker   : [Your Name, eg: *Jane Doe*]
 * Available : [Dates/Times Available, eg: *Apr 20th, 9am-12pm*]
-* Length    : [Length of Presentation, eg: *20 mins*]
+* Length    : [Length of Presentation, eg: *30 mins*]
 
 Description
 -----------
