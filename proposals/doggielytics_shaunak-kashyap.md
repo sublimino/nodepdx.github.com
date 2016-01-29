@@ -15,7 +15,6 @@ As a fun project to scratch my hardware-hacking itch, I decided to try and track
 In this talk I'll walk through my project, Doggielytics, covering the basics of Tessel, Elasticsearch, and Kibana. We'll learn how to write, upload and run code on the Tessel. We'll learn how to store the data being produced by the Tessel in Elasticsearch and then learn how to query and visualize it in Kibana. I will show live demonstrations - sorry, no Seger included :( - throughout the presentation and leave you with resources to get started with your own fun hardware-hacking project!
 
 ---------------
-[*All things below are optional*]
 
 Speaker Bio
 -----------
