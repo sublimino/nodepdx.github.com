@@ -19,7 +19,7 @@ I gave a [similar talk at Queens.js](http://www.meetup.com/QueensJS/events/22732
 Speaker Bio
 -----------
 
-I’m a web developer and traveler. I write stories about my adventures in Russian and English on my site: http://arutrpaikin.com and run a small technology cooperative called [Baguette](http://unebaguette.com), where I work on cool projects, currently building an ambitious next generation file uploader with [Transloadit](https://transloadit.com/). I ride a [foldable bicycle](https://www.instagram.com/p/xC0qC2SSYb), [teach](http://unebaguette.com/web-course/) web development and sometimes [garden](https://www.instagram.com/p/4_6LO8ySVL/) on the balcony.
+I’m a web developer and traveler. I write stories about my adventures in Russian and English on my site: http://arturpaikin.com and run a small technology cooperative called [Baguette](http://unebaguette.com), where I work on cool projects, currently building an ambitious next generation file uploader with [Transloadit](https://transloadit.com/). I ride a [foldable bicycle](https://www.instagram.com/p/xC0qC2SSYb), [teach](http://unebaguette.com/web-course/) web development and sometimes [garden](https://www.instagram.com/p/4_6LO8ySVL/) on the balcony.
 
 Links
 -----
