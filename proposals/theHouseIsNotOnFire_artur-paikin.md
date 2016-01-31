@@ -24,7 +24,7 @@ I’m a web developer and traveler. I write stories about my adventures in Russi
 Links
 -----
 
-* Blog: https://arturpaikin.com
+* Blog: http://arturpaikin.com
 * Twitter: https://twitter.com/arturi
 * Company: https://unebaguette.com
 * Github: https://github.com/arturi
