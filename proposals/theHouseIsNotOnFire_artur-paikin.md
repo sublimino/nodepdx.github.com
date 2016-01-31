@@ -10,9 +10,7 @@ Description
 
 I’ve built an open source home automation system called [Koti Home](https://github.com/arturi/kotihome) (Koti means home in Finnish language). It’s powered by an Arduino connected to Raspberry Pi, MQTT protocol for messaging, Node.js on the client and server, web sockets. You can interact with Koti robot via a React (like the cool kids do) control panel, Telegram Chat Bot and even your own voice.
 
-I’d like to talk about how I’ve turned this project into reality — the tech I used and the chanllanges I faced. From a blinking LED to a voice controlled home automation robot. 
-
-I gave a [similar talk at Queens.js](http://www.meetup.com/QueensJS/events/227320843/).
+I’d like to talk about how I’ve turned this project into reality — the tech I used and the chanllanges I faced. From a blinking LED to a voice controlled home automation robot.  I gave a [similar talk at Queens.js](http://www.meetup.com/QueensJS/events/227320843/).
 
 ---------------
 
