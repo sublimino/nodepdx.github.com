@@ -10,11 +10,11 @@ Description
 
 You've probably heard of Lisp, an ancient programming language venerated by
 programmers of a certain type. Sure, you might consider yourself primarily a
-Javascript programmer, but I'll explain why Lisp is worth learning and how
-learning it will help you write better Javascript, and become a better
+JavaScript programmer, but I'll explain why Lisp is worth learning and how
+learning it will help you write better JavaScript, and become a better
 programmer in general.
 
-I'll also show off two ways to write lisp that compiles to Javascript --
+I'll also show off two ways to write Lisp that compiles to JavaScript --
 [sibilant][] and [clojurescript][], at risk of being booed offstage for asking
 you to use a transpiler.
 
