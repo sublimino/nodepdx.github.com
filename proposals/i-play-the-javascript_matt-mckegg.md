@@ -1,7 +1,7 @@
 I Play the JavaScript
 ========================
 
-* Speaker   : Matt McKegg
+* Speaker   : Matt McKegg (matt@wetsand.co.nz)
 * Available : any time during conference
 * Length    : 30-45 mins
 
