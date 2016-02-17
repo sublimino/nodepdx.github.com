@@ -12,9 +12,6 @@ My job at Twilio is straightforward, write documentation that doesn't suck. This
 
 What is the journey of the modern developer? How does documentation fit into their flow? Are there ways to create documentation that enables developers to work smarter, as opposed to interrupting their day? We'll discuss these questions and more as I share how we got to the realization that we needed a documentation revolution; this is the story of how we raised up code to be the supreme leader of documentation. 
 
----------------
-[*All things below are optional*]
-
 Speaker Bio
 -----------
 
