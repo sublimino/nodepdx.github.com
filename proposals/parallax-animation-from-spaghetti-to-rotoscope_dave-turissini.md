@@ -14,7 +14,7 @@ Introducing Rotoscope, a very lightweight and opinionated library designed speci
 
 ## Bio
 
-Dave loves to animation things! He has been working with the web since the <font> tag was bleeding edge technology, and ever since then has strived to push the limits of what can be done in the browser. When not animation DOM nodes, Dave can probably be found in a coffee shop or out on the hiking trail.
+Dave loves to animation things! He has been working with the web since the <font> tag was bleeding edge technology, and ever since then has strived to push the limits of what can be done in the browser. When not animating DOM nodes, Dave can probably be found in a coffee shop or out on the hiking trail.
 
 ## Links
 
