@@ -10,6 +10,8 @@ Talks frequently highlight what you can already do with ES2015/ES2016. This talk
 
 Code examples of the new features (such as Proxies), as well as what features of the language are coming in ES2016. This talk will help illustrate the direction JavaScript is heading.
 
+A similar presentation (about what we can do with ES6 today) that I presented at ForwardJS is [here](http://blog.mattblair.co/forwardjs-2016-prezzo/). I can also give that presentation, about what percentage of ES6 modern browsers support today. 
+
 # Bio
 
 My name is Matt Blair. Born in Virginia and now in the Bay Area. I write code during the day, play underwater hockey when I get a chance, and do other things occasionally.
