@@ -1,5 +1,9 @@
 # What Your Transpiler Won't Give You
 
+* Speaker   : Matt Blair
+* Available : April 20-21
+* Length    : 30 mins
+
 This talk will center around new language features in ES2015/ES2016 that aren't available to you via transpiled code.
 
 Talks frequently highlight what you can already do with ES2015/ES2016. This talk aims to teach developers what features will be available to them soon.
