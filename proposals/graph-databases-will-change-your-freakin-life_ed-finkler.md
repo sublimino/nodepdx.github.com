@@ -17,11 +17,13 @@ Most of us have worked with relational DBs like MySQL or PostgreSQL, but for man
 - Nodes and Relationships
 - Very simple compared to RDBMS, and much more flexible
     - Much closer to our whiteboard model
+
 #### Which one? We'll use Neo4j
 - Neo4j is good, popular.
     - the Cypher QL is pretty killer and makes more sense coming from SQL
 - There are others. They are good, but often have steep learning curve
 - So basically, Neo4j is a good first intro and we'll use it
+
 #### When use it?
 - For any related data
 - As related-ness and amount of data increases, so does advantage of Graph DBs
@@ -32,6 +34,7 @@ Most of us have worked with relational DBs like MySQL or PostgreSQL, but for man
     - A blog/CMS! Frequently has a lot of related data, involving a lot of joins. 
         - A graph makes your "schema" much more flexible -- just add or remove relationships. Altering RDBMS schemas and queries much more common, harder.
         - Less code, easier to modify
+
 #### Let's look at some examples
 * Make a node
 * Make another node
@@ -40,10 +43,12 @@ Most of us have worked with relational DBs like MySQL or PostgreSQL, but for man
 * Do a simple select
 * Do a more complex select
 * Do some crazy stuff that's basically impossible with RDBMSes
+
 #### How do we use this from Node?
 * Neo4j 2.x uses a RESTful API
     * All client libraries are wrappers for this
     * Show a couple code examples with popular wrappers
+
 #### Resources
 * My Graph-based blog
 * Neo4j docs
