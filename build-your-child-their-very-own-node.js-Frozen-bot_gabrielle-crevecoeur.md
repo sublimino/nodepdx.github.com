@@ -13,3 +13,9 @@ voice-recognition feature with the Arduino, we’ll need a few additional pieces
 
 Presentation Duration: 45min to 1hr
 
+Code can be found: github.com/gcrev93/FrozenBot
+
+Bio:
+
+Gabrielle Crevecoeur is a technical evangelist at Microsoft specializing in open source development. Her current focus is Node.js. Gabrielle is a recent graduate of Florida State University, where she majored in computer science. She plans to pursue a master’s in electrical engineering in the near future. When Gabrielle is not programming, you can find her playing video games or watching Netflix.
+www.nowayshecodes.com
