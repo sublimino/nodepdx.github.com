@@ -8,14 +8,14 @@ Conquering Fears with Poetry (and Javascript)
 Description
 -----------
 
-Lots of things in life are scary. For me, code is one of them, but sometimes you have to push yourself into the deep end by pursuing something you care about and combining it with code in a personal project. The final product is [Exquisite Texts](exquisitetexts.com), which enables strangers to write dope poetry with each other. But first I will talk about my journey in realizing that I am a programmer, how I came across poetry, and struggling with side project / life balance. We'll have a little audience participation and poems get written real-time while the talk is happening
+Lots of things in life are scary. For me, code is one of those scary things, but sometimes you have to push yourself into the deep end. Instead of writing another todo app to learn new stuff (because seriously, who wants to write another todo app??), I found a way to combine code with another thing I love: poetry. That's how Exq was created-- a Twilio/Firebase app that enables strangers to write dope poetry with each other. This talk is all about my journey to realizing that I am a programmer, how poetry got involved, and juggling work/life/personal projects.
 
 ---------------
 
 Speaker Bio
 -----------
 
-Jane is a front end developer at Baublebar, and before that she was at Vimeo and Columbia University. She is usually eating too much, at karaoke, falling (not failing) gracefully, and/or dancing with herself. You can find her at a BoroJs meetup in New York City or sipping on coffee and people watching. 
+Jane is a front end developer at Baublebar, and before that she was at Vimeo and Columbia University. She is usually eating too much, at karaoke, falling (not failing) gracefully, and/or dancing with herself. You can find her at a BoroJs meetup in New York City or sipping on coffee and people watching.
 
 Links
 -----
@@ -23,3 +23,7 @@ Links
 * Website: http://janekim.me
 * Company: https://www.baublebar.com/
 * Github: http://github.com/janecakemaster
+
+Notes
+-----
+This is a *feelings* and *inspiration* talk. I talk a little bit about implementation (using firebase as a quick data store in lieu of a backend, choosing a framework) but it's a lot about my journey as a programmer and things like imposter syndrome.
