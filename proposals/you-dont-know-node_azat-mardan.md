@@ -31,7 +31,7 @@ This talk dives deep into the core mechanisms of the Node.js platform and some o
 
 
 ---------------
-[*All things below are optional*]
+
 
 Speaker Bio
 -----------
