@@ -1,4 +1,4 @@
-💎 diamond: Curing JS Fatigue with Super-Static Rendering
+💎 diamond: Curing Javascript Fatigue with Super-Static Rendering
 ========================
 
 * Speaker   : Marty Nelson (@martypdx)
@@ -14,11 +14,11 @@ new experimental library that does just that, resulting in performance as fast
 or faster than the same content rendered as a static document! (Think 10's of ms of
 js time)
 
-I'll recap my research that shows how fast js and the DOM can be as well as learnings
-on optimizing at rendering library. We'll look at code, run some profiles and talk about what to look for in 
+I will recap my research that shows how fast js and the DOM can be as well as learnings
+on optimizing a rendering library. We'll look at code, run some profiles and talk about what to look for in 
 stated performance numbers from ui libraries and frameworks.
 
-Lastly, given a technology that renders this fast, I'll: 
+Lastly, given a technology that renders this fast, I will: 
 * posit the end of forced isomorphic js, immutability, and service-workers
 * question efforts like Google's AMP, and
 * speculate about the death of dom-diffing architectures.
