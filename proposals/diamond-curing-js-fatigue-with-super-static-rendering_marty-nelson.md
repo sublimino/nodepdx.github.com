@@ -30,10 +30,12 @@ Speaker Bio
 -----------
 
 Marty Nelson is the Principal Instructor at Code Fellows Portland and has been
-hacking on javascript in earnest since node `v0.3.8`. Since 2014, he 
+hacking on javascript in earnest since node `v0.3.8`. Last year he helped startup
+[Cardsmith](cardsmith.co) launch their MVP realtime app. Since 2014, he 
 has also been a contributor to [RactiveJS](https://github.com/ractivejs/ractive), 
 a mustache-based templating library that marries an intuitive API with a fully 
-recursive component architecture.
+recursive component architecture. He is also an admitted recovering enterprise 
+developer.
 
 Links
 -----
