@@ -21,7 +21,7 @@ stated performance numbers from ui libraries and frameworks.
 Lastly, given a technology that renders this fast, I will: 
 * posit the end of forced isomorphic js, immutability, and service-workers
 * question efforts like Google's AMP, and
-* speculate about the death of dom-diffing architectures.
+* speculate about the death of virtual dom-diffing architectures.
 
 ---------------
 
