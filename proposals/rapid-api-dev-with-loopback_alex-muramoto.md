@@ -1,0 +1,3 @@
+Whether you're building for mobile, the Web, or server side, it's pretty much guaranteed you're going to be consuming APIs. But just relying on publicly available APIs isn't going to get you to the finish line. Whether it's to securely access a database, offload compute and network overhead from the client, or just make it easier to manage your use of third-party services, you're going to have to build your own API.
+
+This talk will demonstrate how you can use Node.js and the open-source Loopback framework to rapidly get a RESTful API with full CRUD operations up and running. Some of the topics covered include exposing an existing database, consuming and transforming data from a third-party API, injecting application logic, and creating custom endpoints.
