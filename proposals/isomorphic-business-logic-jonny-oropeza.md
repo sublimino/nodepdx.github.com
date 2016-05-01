@@ -27,5 +27,5 @@ Jon Oropeza is a full-stack engineer at HD Quote Center, a post-aquisition start
 Links
 -----
 
-Company: <https://www.linkedin.com/company/10387750>
-Github: <https://github.com/joropeza>
+- Company: <https://www.linkedin.com/company/10387750>
+- Github: <https://github.com/joropeza>
