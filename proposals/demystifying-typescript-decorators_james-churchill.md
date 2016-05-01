@@ -27,3 +27,8 @@ Links
 * Blog: http://smashdev.com
 * Github: http://github.com/smashdevcode
 * Twitter: http://twitter.com/SmashDev
+
+Contact
+-------
+
+Email: james.churchill@teamtreehouse.com
