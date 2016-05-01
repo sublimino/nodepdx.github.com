@@ -3,7 +3,7 @@ Demystifying TypeScript Decorators
 
 * Speaker   : James Churchill
 * Available : Any day/time
-* Length    : 45-60 minutes
+* Length    : 30-45 minutes
 
 Description
 -----------
