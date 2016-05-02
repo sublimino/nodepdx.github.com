@@ -1,7 +1,7 @@
 WebSockets Bring Light at the End of the Tunnel
 ========================
 
-* Speaker   : Joel
+* Speaker   : Joel Lord
 * Available : Anytime!
 * Length    : 30 minutes
 
