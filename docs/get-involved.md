@@ -73,23 +73,23 @@ NOTE: We'd love to find a replacement for Troy in this role. If you're intereste
 
 ## Volunteer Coordinator
 
-The *Volunteer Coordinator* is responsible for ...
+The *Volunteer Coordinator* is responsible for organizing members of community who would like to become volunteers. The *Volunteer Coordinator* organizes the schedule of volunteers, ensures we have enough volunteers to cover our needs, and during the conference, manages the task, questions, and other needs of the volunteer staff.
 
 For 2016, our *Volunteer Coordinator* is [Adron Hall]. 
 
-NOTE: We'd love to find a replacement for Adron in this role. If you're interested, shoot us an email at [welcome@nodepdx.org]. The *Volunteer Coordinator* can be based anywhere in the world.
+NOTE: We'd love to find a replacement for Adron in this role. If you're interested, shoot us an email at [welcome@nodepdx.org]. The *Volunteer Coordinator* must be based in Portland.
 
 
 
 ## Activities Director
 
-The *Activities Director* is responsible for arranging the extra activities outside of the main conference schedule. This includes our group bike ride, group hike, and Geek Train events. They also arrange the venue contract for the official after-party and cooedinate any workshops or other ancillary events. There may also be additional ticketing or other attendee management tasks associated with these events.
+The *Activities Director* is responsible for arranging the extra activities outside of the main conference schedule. This includes our group bike ride, group hike, and Geek Train events. They also arrange the venue contract for the official after-party and coordinate any workshops or other ancillary events. There may also be additional ticketing or other attendee management tasks associated with these events.
 
 During these events, the *Activities Director* is also responsible for any [Code Of Conduct] problems that may come up.
 
 For 2016, the *Activities Director* role is share by [Troy Howard] and [Adron Hall]. 
 
-NOTE: We'd love to find a replacement for Troy and Adron in this role. If you're interested, shoot us an email at [welcome@nodepdx.org]. The *Activities Director* can be based anywhere in the world.
+NOTE: We'd love to find a replacement for Troy and Adron in this role. If you're interested, shoot us an email at [welcome@nodepdx.org]. The *Activities Director* must be based in Portland.
 
 
 ## Emcee
@@ -98,7 +98,7 @@ The *Emcee* is the face and voice of the conference on stage. They are responsib
 
 For 2016, our *Emcee* is [Adron Hall]. 
 
-NOTE: We'd love to find a replacement for Adron in this role. If you're interested, shoot us an email at [welcome@nodepdx.org]. The *Emcee* can be based anywhere in the world.
+NOTE: We'd love to find a replacement for Adron in this role. If you're interested, shoot us an email at [welcome@nodepdx.org]. The *Emcee* can be based anywhere in the world, but must be able to attend the conference.
 
 
 ## Communications Director
